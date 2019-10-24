@@ -1,0 +1,55 @@
+{
+    "id1": {
+        "name": "Quyền lợi khách hàng thành viên",
+        "data": "Khách hàng thành viên được hưởng các quyền lợi cơ bản của chủ tài khoản Bee ID , và các ưu đãi riêng tùy vào phân hạng thẻ khách hàng được công bố trên trang Web. \nKhông giới hạn các quyền lợi sau: Tích điểm: 2% trên tổng giá trị đơn hàng (không bao gồm các dòng sản phẩm Whipping, topping, bơ, sữa, phô mai (cream cheese, mozza, mascapone,…).Sử dụng điểm tích lũy có trong tài khoản.Tham gia các chương trình khuyến mãi chung hoặc riêng của chủ thẻ tài khoản."
+    },
+    "id2": {
+        "name": "Điều kiện- Điều khoản áp dụng Bee ID",
+        "data": "Phạm vi áp dụng:\nKhách hàng thành viên là những người đã phát sinh đơn hàng và có số điện thoại trên hệ thống cửa hàng Beemart, sở hữu tài khoản Bee ID trên App Beemart do công ty Beemart cung cấp về quản lý.\nTham gia là khách hàng thành viên, đồng nghĩa với việc khách hàng đã hiểu và đồng ý điều kiện đăng ký và toàn bộ các chính sách được công bố công khai trên trang Web và được cập nhật tùy từng thời điểm.\nQuyền và trách nhiệm của khách hàng thành viên \nKhách hàng có quyền truy cập vào App Beemart để tra cứu và tiêu dùng số điểm tích lũy.\nMỗi khách hàng thành viên bảo đảm là người duy nhất khởi tạo tài khoản.\nCông ty Beemart có quyền đề nghị khách hàng thành viên cung cấp thông tin hoặc xuất trình giấy tờ cá nhận hợp lệ trước khi sử dụng điểm hoặc hưởng các ưu đãi/khuyến mãi đặc biệt khác.\nSử dụng điểm\nĐiểm trong tài khoản của khách hàng được sử dụng để thanh toán giá trị đơn hàng, không được chuyển đổi thành tiền mặt.\nĐiểm quy đổi: 1 điểm= 1.000đ\nThời hạn sử dụng điểm: Tài khoản tích điểm của khách hàng sẽ hết hạn trong 1 năm (31/12 hàng năm) và sẽ được tích điểm lại vào đầu năm tiếp theo.\nKhông áp dụng tích điểm với các sản phẩm giảm giá , khuyến mại \nKhông áp dụng với các đơn hàng mua buôn/sỉ"
+    },
+    "id3": {
+        "name": "Các câu hỏi thường gặp",
+        "data": [
+            {
+                "Q": "Những ai được mở tài khoản Bee ID?",
+                "A": "Là những người phát sinh đơn hàng và có số điện thoại trên hệ thống cửa hàng Beemart"
+            },
+            {
+                "Q": "Điều kiện với tài khoản Bee ID",
+                "A": "Có đầy đủ các trường thông tin cá nhân theo yêu cầu của Bee ID trên App Beemart"
+            },
+            {
+                "Q": "Tài khoản Bee ID có hết hạn không?",
+                "A": "Thẻ có hiệu lực vĩnh viễn với chủ thẻ trừ trường hợp ngừng chương trình từ phía công ty Beemart"
+            },
+            {
+                "Q": "Điểm tích lũy là gì?",
+                "A": "Điểm tích lũy là số điểm khách hàng tích lũy được qua quá trình mua sắm hàng hóa trên hệ thống Beemart, 1 điểm tương ứng với 1.000đ"
+            },
+            {
+                "Q": "Những trường hợp nào không được tích điểm",
+                "A": "Những trường hợp không tích điểm:\nKhông tích điểm khi khách hàng mua các sản phẩm dòng Whipping, topping, bơ, sữa, phô mai (cream cheese, mozza, mascapone,…).\nKhông áp dụng tích điểm với các sản phẩm giảm giá , khuyến mại \nKhông áp dụng với các đơn hàng mua buôn/sỉ"
+            },
+            {
+                "Q": "Điểm tích được sử dụng đến bao giờ?",
+                "A": "Trong vòng 12 tháng kể từ thời điểm phát sinh đơn hàng đầu tiên. Sau 12 tháng đó vẫn không phát sinh thêm bất kỳ đơn hàng nào thì hệ thống sẽ tự động xóa điểm."
+            },
+            {
+                "Q": "Hướng dẫn mua hàng tại Beemart",
+                "A": ""
+            },
+            {
+                "Q": "Chính sách đổi, trả hàng",
+                "A": "Quyền lợi và mong muốn của khách hàng luôn được Beemart đặt lên hàng đầu. Mang lại lợi ích và sự hài lòng cho khách hàng là tôn chỉ hoạt động của chúng tôi.\nBeemart có chính sách đổi trả hàng cho những mặt hàng là dụng cụ (không áp dụng cho máy móc thiết bị và nguyên liệu)\nNếu vì bất kỳ lý do gì mà quý khách chưa vừa ý hay không còn nhu cầu sử dụng với sản phẩm đã mua, quý khách có thể đổi sang sản phẩm khác có giá trị bằng hoặc lớn hơn trong vòng 07 ngày kể từ ngày mua (Phí đổi trả do khách hàng chịu trách nhiệm). Hàng được đổi trả ngang giá hoặc giá trị cao hơn giá trị hàng đổi trả.\nQuy định đối với sản phẩm đổi trả\nSản phẩm còn mới 100%, chưa được sử dụng (áp dụng với dụng cụ làm bánh không áp dụng với nguyên liệu làm bánh) \nSản phẩm còn đầy đủ bao bì, tem nhãn, phiếu bảo hành, phiếu mua hàng.\nViệc Trả/Đổi sản phẩm quý khách vui lòng thực hiện trực tiếp tại các cửa hàng của Beemart. \nThời gian Đổi/Trả là 07 ngày, tính từ ngày mua hàng."
+            },
+            {
+                "Q": "Chính sách khách hàng VIP, Khách hàng thân thiết.",
+                "A": "Khách hàng thành viên : Đăng ký đầy đủ thông tin theo yêu cầu tại Beemart\nKhách hàng thân thiết (KHTT): Mua hàng và có tổng giá tri trên 10 triệu\nKhách hàng VIP (KHVIP): Mua hàng và có tổng giá trị trên 50 triệu"
+            },
+            {
+                "Q": "Quyền lợi ưu đãi dành riêng cho KHTT và KHVIP",
+                "A": "Ngoài việc tích điểm, những KH này được hưởng thêm chiết khấu cho các đơn hàng mua như sau:"
+            }
+        ]
+    }
+}
